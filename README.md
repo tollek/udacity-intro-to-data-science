@@ -1,8 +1,5 @@
-# udacity-intro-to-data-science
+Scripts created during Udacity Intro to Data Science course.
 
-f
-gdgg
-
-g
-dfgd
-g
+Content:
+- titanic: 
+	scripts and testing data for kaggle titanic survivor prediction
