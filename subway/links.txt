@@ -1,0 +1,4 @@
+Wunderground fields explanations:
+
+http://www.wunderground.com/weather/api/d/docs?d=resources/phrase-glossary
+
