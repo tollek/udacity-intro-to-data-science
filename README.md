@@ -15,3 +15,8 @@ Content:
 
 - wrangling:
         udacity data wrangling excercises
+
+- visualization
+    - subway ridership visualizations: entires per hour, entries per unit
+    - scripts for genering the visualizations
+    - baseball data comparison with diagrams
