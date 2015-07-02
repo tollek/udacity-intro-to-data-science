@@ -2,7 +2,7 @@ Scripts created during Udacity Intro to Data Science course.
 
 Content:
 
--datan\_analysis:
+- data\_analysis:
     - subway ridership population analysis (e.g. mann whitney test)
     - population histogram (subway entries)
     - linear regression - how many people will ride subway with at given time && conditions?
